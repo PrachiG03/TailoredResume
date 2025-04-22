@@ -1,0 +1,51 @@
+
+
+
+EDUCATION 
+                                     Prachi Gehlot
+San Francisco | (408)-394 1296 | pgehlot@sfsu.edu | Linkedin | Github 
+  San Francisco State University	                  GPA : 4.00
+MS in Business Analytics                                                                                                                                 Graduation Date: Dec 2025
+
+National Institute Of Fashion Technology		       GPA: 3.9
+MB, Fashion Marketing & Management	                  Graduation Date: Apr 2021
+
+Rajasthan Technical University, India	                  GPA: 3.34
+Bachelor Of Technology, Engineering	                  Graduation Date: May 2019
+
+SKILLS
+
+Tools: Python, R, SQL, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Tableau, PowerBI, Snowflake, SAP, Google Cloud Platform, AWS, Google Looker, MS Excel, PowerPoint
+Analysis: ETL, EDA, Data Modeling, Data Cleaning, Statistics, Machine Learning, Creating Dashboards, Data Visualization, Business Strategy, Marketing Analytics, Advanced Data Analytics, Data Interpretation
+
+WORK EXPERIENCE
+
+AJIO.COM (Reliance Retail Ltd.)	                 Bengaluru, India
+Asst. Manager, Content Strategist	                   Nov 2022- Jul 2024
+•	Analyzed data to optimize campaigns, increasing product click-through rates by 15%, ROI by 10%, and quarterly sales by 12% for global fashion brands: Nike, Levi's, Adidas, Puma, Superdry, Steve Madden, G-Star Raw & Gas.
+•	Developed and implemented advanced audience segmentation models for Unisex Homepage and Gen Z Western Wear e-stores, resulting in a 5% increase in click-through rates and improving ROI by 8%.
+•	Conducted extensive A/B testing during critical sales campaigns, leading to optimized e-store layouts that enhanced click-through rates by 30%, while providing actionable insights that informed strategic decisions
+•	Collaborated with cross-functional teams, including the London office, to successfully launch ASOS India by integrating diverse datasets such as trend analysis and user behavior patterns. This initiative led to a 20% boost in user engagement within the first quarter post-launch.
+
+Fabindia Pvt. Ltd.	                 New Delhi, India
+Senior Social Media Executive 	                 Apr 2022 - Nov 2022
+•	Spearheaded the launch of the FabNU sub-brand targeting Gen-Z through comprehensive market research and focus group discussions, contributing to a 40% increase in brand engagement. Expanded the product portfolio by introducing sub-brands including Fabessentails (Skincare), FabFamily (Loyalty Program) & Custom Clothing. 
+•	Orchestrated social media and digital marketing campaigns that successfully boosted follower count from 498K to 900K in one year, translating into a 50% growth in audience reach and enhancing brand visibility across platforms.
+•	Developed and executed a performance marketing strategy that elevated Facebook ad revenue from 18% to 27%, leveraging A/B testing techniques which led to a significant increase in conversion rates by approximately 45%.
+ 
+Social Media Executive
+                Apr 2021 – Apr 2022
+ 
+•	Developed comprehensive reporting frameworks that tracked the performance of more than 100 active campaigns, which led to strategic optimizations that improved overall ROI by 40%.
+Brand & Marketing Strategy Intern 							                Sept 2020 – Apr 2021
+•	Analyzed over 150 campaign datasets to pinpoint high-performing audience segments, enhancing targeted marketing strategies and contributing to a 30% increase in engagement rates. 
+PROJECTS
+Aviation Accident Analysis | Python                                                                                                                                        Aug 2024-Dec 2024
+•	Developed advanced regression and machine learning models that identified and reported key factors contributing to aviation accidents leading to improved safety protocols & potential reduction in accidents.
+ Real Estate Price Prediction | R Programming                                                                                                                      Oct 2024-Nov2024                                                                                    
+•	Created a regression model in R to predict house prices, focusing on feature engineering and model evaluation to identify key price predictors.
+CERTIFICATIONS & ACHEIVEMENTS
+•	Business Analytics Specialization, University of Illinois Urbana-Champaign, June 2024 
+•	AWS Certified Cloud Practitioner (In Progress)
+•	Awarded Best Academic Performance, NIFT (Master of Fashion Management, 2019-2021) 
+
